@@ -1,0 +1,41 @@
+.sobre {
+
+	display: flex;
+	justify-content:center;
+	margin-top: 30px;
+}
+
+.sobre_int {
+
+	width: 100%;
+	max-width: 1100px;
+}
+
+.sobre_img {
+
+	height: 300px;
+	display: flex;
+	justify-content: center;
+	align-items:center;
+}
+
+.sobre_img img {
+
+	width: 250px;
+	height: 250px;
+	border-radius: 125px;
+}
+
+.sobre_title {
+
+	font-size: 35px;
+	font-weight: bold;
+	text-align: center;
+}
+
+.sobre_text {
+
+	margin-top: 30px;
+	text-align: justify;
+	font-size: 25px;
+}
